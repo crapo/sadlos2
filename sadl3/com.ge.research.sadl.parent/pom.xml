@@ -50,7 +50,7 @@
     <maven.compiler.target>11</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <version.mwe2>2.12.0</version.mwe2>
+    <version.mwe2>2.12.1</version.mwe2>
     <version.sadl>3.5.0</version.sadl>
     <version.tycho>2.3.0</version.tycho>
     <version.xtext>2.24.0</version.xtext>
